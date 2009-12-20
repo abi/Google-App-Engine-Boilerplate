@@ -1,0 +1,1 @@
+I clone this project anytime I'm starting a new Google App Engine project. Includes jQuery, the Blueprint CSS framework and a basic template.
